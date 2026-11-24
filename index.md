@@ -1,6 +1,6 @@
 # Privacy Policy for Fish Float
 
-**Effective date:** August 30, 2026  
+**Effective date:** November 24, 2026  
 **Developer:** KTech Studio  
 **Contact:** ktechstudio.support@gmail.com  
 **Official policy URL:** https://destrox202-glitch.github.io/fish-float-support/
@@ -46,7 +46,7 @@ Depending on the advertisement, region, device settings, privacy choices, and pr
 - Advertisement requests, impressions, clicks, completions, and reward events
 - Consent or privacy signals, diagnostics, security information, and fraud-prevention information
 
-Fish Float is configured as a family-friendly experience and sends age-restricted/privacy signals to its advertising SDK. The app does not request permission to track you across apps and websites owned by other companies. Where an advertising identifier is unavailable or its use is not permitted, providers may show contextual or limited advertisements instead.
+Fish Float is a general-audience game that shows rewarded advertisements you choose to watch and, occasionally, short advertisements between runs. It sends privacy signals to its advertising SDK: it never indicates consent to personalised advertising under the GDPR, and it opts every player out of the sale of personal information under US state privacy laws. The app does not request permission to track you across apps and websites owned by other companies. Where an advertising identifier is unavailable or its use is not permitted, providers may show contextual or limited advertisements instead.
 
 Advertising providers may act as independent controllers of information they process. Their practices, retention periods, partners, and privacy choices are described in Unity's policies:
 
