@@ -1,6 +1,6 @@
 # Privacy Policy for Fish Float
 
-**Effective date:** November 24, 2026  
+**Effective date:** November 25, 2026  
 **Developer:** KTech Studio  
 **Contact:** ktechstudio.support@gmail.com  
 **Official policy URL:** https://destrox202-glitch.github.io/fish-float-support/
@@ -19,7 +19,11 @@ The game stores gameplay information locally on your device, including:
 - Mission, achievement, Aquarium, and tutorial progress
 - Sound settings and purchase entitlement status
 
-This information is used to operate the game and preserve your progress. KTech Studio does not upload it to a player account or a KTech Studio gameplay server. Removing the app may remove local progress, subject to device backups and platform behavior.
+This information is used to operate the game and preserve your progress. Except as described under Game Center below, KTech Studio does not upload it to a player account or a KTech Studio gameplay server. Removing the app may remove local progress, subject to device backups and platform behavior.
+
+## Game Center
+
+If you are signed in to Game Center on your device, Fish Float submits your scores to its leaderboard and reports your achievement progress to Apple's Game Center. Your Game Center profile, scores, and achievements are handled by Apple under Apple's privacy policy; KTech Studio does not receive your Apple Account or contact details. Game Center is optional: you can play without signing in, and you can manage it in your device's Settings.
 
 ## In-App Purchases
 
@@ -55,7 +59,7 @@ Advertising providers may act as independent controllers of information they pro
 
 ## Privacy Choices
 
-Privacy choices may depend on your location, device settings, applicable law, and the controls offered within an advertisement. Unity advertisements may include a privacy or data-options control that can be used to review available choices. You can also limit use of an advertising identifier through your iPhone or iPad privacy settings.
+On first launch, Fish Float shows a Privacy & Ads notice that describes the advertisements in the game. Privacy choices may depend on your location, device settings, applicable law, and the controls offered within an advertisement. Unity advertisements may include a privacy or data-options control that can be used to review available choices. You can also limit use of an advertising identifier through your iPhone or iPad privacy settings.
 
 Choosing not to allow personalized advertising does not prevent you from playing Fish Float. You may still receive contextual or limited advertisements. Rewarded advertisements remain optional.
 
@@ -70,6 +74,7 @@ Parents and guardians should supervise children's device use, optional advertisi
 Information may be processed or shared only as needed for:
 
 - App Store purchase processing and restoration through Apple
+- Game Center leaderboards and achievements through Apple, if you are signed in to Game Center
 - Advertisement delivery, mediation, measurement, security, and fraud prevention through Unity LevelPlay, ironSource Ads, Unity Ads, and their authorized service providers or bidding partners
 - Compliance with law, protection of users, prevention of fraud, or enforcement of legal rights
 
